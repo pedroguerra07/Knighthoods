@@ -1,0 +1,6 @@
+name: Knighthoods
+main: ks/Main
+version: 1.0.0
+api: 3.13.0
+author: NotSlayer_
+description: Knighthoods is a plugin like Faction but for Rankups wich theme is medieval
